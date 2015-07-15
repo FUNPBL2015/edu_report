@@ -10,8 +10,9 @@
 \contentsline {section}{\numberline {2.3}課題の割り当て}{3}
 \contentsline {chapter}{\numberline {第3章}プロジェクトのこれまでの活動}{4}
 \contentsline {section}{\numberline {3.1}イベント}{4}
-\contentsline {subsection}{\numberline {3.1.1}リスク分析}{4}
-\contentsline {subsection}{\numberline {3.1.2}アプリ開発のための勉強会}{4}
+\contentsline {subsection}{\numberline {3.1.1}スクラッチワークショップへの参加}{4}
+\contentsline {subsection}{\numberline {3.1.2}リスク分析}{4}
+\contentsline {subsection}{\numberline {3.1.3}アプリ開発のための勉強会}{5}
 \contentsline {section}{\numberline {3.2}アプリ案の推移}{5}
 \contentsline {chapter}{\numberline {第4章}課題解決のプロセスの詳細}{6}
 \contentsline {section}{\numberline {4.1}各人の課題の概要とプロジェクト内における位置づけ}{6}
