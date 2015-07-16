@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.6.24)  15 JUL 2015 18:03
+This is e-pTeX, Version 3.14159265-p3.6-141210-2.6 (utf8.euc) (TeX Live 2015) (preloaded format=platex 2015.6.24)  16 JUL 2015 15:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -244,57 +244,50 @@ LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
 
 ]
 第2章
-LaTeX Font Info:    Try loading font information for OMS+cmr on input line 170.
-
-(/usr/local/texlive/2015/texmf-dist/tex/latex/base/omscmr.fd
-File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
-)
-LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 170.
- [2
-
-] [3]
-第3章
-[4
+[2
 
 ]
+第3章
+[3
+
+] [4]
 第4章
 [5
 
-] [6]
+]
 第5章
-[7
+[6
 
 ]
 第6章
-[8
+[7
 
 ]
 付録A
-[9
+[8
 
 ]
 付録B
-[10
+[9
 
 ]
 付録C
-[11
+[10
 
 ]
 付録D
-[12
+[11
 
-] [13
+] [12
 
 ] (./group.aux) ) 
 Here is how much of TeX's memory you used:
- 1385 strings out of 493777
- 16389 string characters out of 6151334
+ 1368 strings out of 493777
+ 16087 string characters out of 6151334
  81512 words of memory out of 5000000
- 4900 multiletter control sequences out of 15000+600000
+ 4886 multiletter control sequences out of 15000+600000
  13824 words of font info for 65 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 26i,5n,23p,180b,249s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 26i,5n,23p,224b,233s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on group.dvi (17 pages, 40464 bytes).
+Output written on group.dvi (16 pages, 36792 bytes).
